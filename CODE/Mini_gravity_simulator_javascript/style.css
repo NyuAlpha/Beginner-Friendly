@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #0c0817;
+    color: rgb(79, 255, 211);
+}
+
+canvas{
+    border-color: #333;
+    border-width: 5px;
+    border-style: dotted;
+}
+
+.text-center{
+    text-align: center;
+}
+
+  
